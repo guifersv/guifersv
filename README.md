@@ -31,17 +31,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnet-core logo" />
   <img width="12" />
-  <img src="https://github.com/serilog/serilog/blob/dev/assets/icon.png?raw=true" height="30" alt="serilog logo" style="border-radius:20%"/>
+  <img src="https://github.com/serilog/serilog/blob/dev/assets/icon.png?raw=true" height="30" alt="serilog logo" />
   <img width="12" />
-  <img src="https://github.com/dotnet/efcore/blob/main/logo/ef-logo.png?raw=true" height="30" alt="serilog logo" style="border-radius:20%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="30" alt="ef-core logo" />
   <img width="12" />
-  <img src="https://github.com/xunit/media/blob/main/logo-128-transparent.png?raw=true" height="30" alt="serilog logo"/>
+  <img src="https://github.com/xunit/media/blob/main/logo-128-transparent.png?raw=true" height="30" alt="xunit logo"/>
 </div>
 
 ###
