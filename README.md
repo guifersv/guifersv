@@ -69,17 +69,3 @@
 </div>
 
 ###
-
-<h4 align="left">🛠️ Tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-</div>
-
-###
