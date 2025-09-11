@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor fullstack; Atualmente cursando Bacharelado em Ciência da Computação na Universidade Federal de Campina Grande (UFCG).</p>
+<p align="left">Desenvolvedor backend; Atualmente cursando Bacharelado em Ciência da Computação na Universidade Federal de Campina Grande (UFCG).</p>
 
 ###
 
