@@ -66,6 +66,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://private-user-images.githubusercontent.com/216188/306790203-27a8ea18-9383-4d86-a445-305b9a6248c1.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc2ODM1MzMsIm5iZiI6MTc1NzY4MzIzMywicGF0aCI6Ii8yMTYxODgvMzA2NzkwMjAzLTI3YThlYTE4LTkzODMtNGQ4Ni1hNDQ1LTMwNWI5YTYyNDhjMS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MTJUMTMyMDMzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzAwMjk4YTVjMTdjYzU4YzMyYWI2N2NkYmNlYmFhNTY3NTQyYzM3NjM2ODIzMzgzMGViMTBjYzcyMGYwMzc1YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.cQrX8NaPFHtB3Eqsn1SemSq-_y7vsBCq4gLZ1JrvzEo" height="30" alt="mise-en-place logo" />
 </div>
 
 ###
