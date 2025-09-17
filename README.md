@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="30" alt="ef-core logo" />
   <img width="12" />
   <img src="https://github.com/xunit/media/blob/main/logo-128-transparent.png?raw=true" height="30" alt="xunit logo"/>
+  <img width="12" />
+  <img src="https://github.com/swagger-api/swagger-ui/blob/master/dist/favicon-32x32.png?raw=true" height="30" alt="swagger logo"/>
 </div>
 
 ###
