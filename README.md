@@ -69,7 +69,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
-  <a href="https://github.com/cybernetics/mise-en-place">mise-en-place</a>
+  <a href="https://github.com/jdx/mise">mise-en-place</a>
 </div>
 
 ###
