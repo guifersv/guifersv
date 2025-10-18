@@ -37,13 +37,11 @@
   <img width="12" />
   <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png?raw=true" height="30" alt="dotnet-core logo" />
   <img width="12" />
-  <img src="https://github.com/serilog/serilog/blob/dev/assets/icon.png?raw=true" height="30" alt="serilog logo" />
+  <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" height="30" alt="serilog logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="30" alt="ef-core logo" />
   <img width="12" />
-  <a href="https://xunit.net/index.html?tabs=cs">
-    <img src="https://github.com/xunit/media/blob/main/logo-128-transparent.png?raw=true" height="30" alt="xunit logo"/>
-  </a>
+  <img src="https://github.com/xunit/media/blob/main/full-logo.png?raw=true" height="30" alt="xunit logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
 </div>
