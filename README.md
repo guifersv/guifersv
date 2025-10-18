@@ -41,7 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="30" alt="ef-core logo" />
   <img width="12" />
-  <img src="https://github.com/xunit/media/blob/main/logo-128-transparent.png?raw=true" height="30" alt="xunit logo"/>
+  <a href="https://xunit.net/index.html?tabs=cs">
+    <img src="https://github.com/xunit/media/blob/main/logo-128-transparent.png?raw=true" height="30" alt="xunit logo"/>
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
 </div>
@@ -69,7 +71,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://github.com/jdx/mise/raw/main/docs/public/logo.svg" alt="mise" height="30">
+  <a href="https://github.com/jdx/mise">
+    <img src="https://github.com/jdx/mise/raw/main/docs/public/logo.svg" alt="mise" height="30">
+  </a>
 </div>
 
 ###
