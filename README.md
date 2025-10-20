@@ -43,6 +43,8 @@
   <img width="12" />
   <img src="https://github.com/xunit/media/blob/main/full-logo.png?raw=true" height="30" alt="xunit logo"/>
   <img width="12" />
+  <img src="https://github.com/devlooped/moq/blob/main/docs/assets/images/moq-icon.png?raw=true" height="30" alt="moq logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
 </div>
 
