@@ -35,13 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png?raw=true" height="30" alt="dotnet-core logo" />
+  <img src="media/dotnet-logo.svg" height="30" alt="dotnet-core logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" height="30" alt="serilog logo" />
+  <img src="media/serilog-logo.png" height="30" alt="serilog logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="30" alt="ef-core logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/xunit/media/f840845dd845bb9e04e01e76976e8bbfcfa3e5a4/full-logo.svg" height="30" alt="xunit logo"/>
+  <img src="media/full-logo.svg" height="30" alt="xunit logo"/>
   <img width="12" />
   <img src="https://github.com/devlooped/moq/blob/main/docs/assets/images/moq-icon.png?raw=true" height="30" alt="moq logo"/>
   <img width="12" />
