@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="media/dotnet-logo.svg" height="30" alt="dotnet-core logo" />
+  <img src="media/dotnet-logo.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
   <img src="media/serilog-logo.png" height="30" alt="serilog logo" />
   <img width="12" />
