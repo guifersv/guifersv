@@ -41,9 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="30" alt="ef-core logo" />
   <img width="12" />
-  <img src="media/full-logo.svg" height="30" alt="xunit logo"/>
+  <img src="media/xunit-logo.png" height="30" alt="xunit logo"/>
   <img width="12" />
-  <img src="https://github.com/devlooped/moq/blob/main/docs/assets/images/moq-icon.png?raw=true" height="30" alt="moq logo"/>
+  <img src="media/moq-icon.png" height="30" alt="moq logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
 </div>
